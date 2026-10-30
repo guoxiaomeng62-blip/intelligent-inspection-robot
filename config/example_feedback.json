@@ -1,0 +1,14 @@
+{
+  "purpose": "离线仿真输入，不接入board_sensors真实硬件反馈",
+  "battery_soc": 0.8,
+  "battery_voltage_v": 26.4,
+  "front_clearance_m": 1.2,
+  "rear_clearance_m": 1.5,
+  "left_clearance_m": 1.0,
+  "right_clearance_m": 1.0,
+  "left_speed_mps": 0.0,
+  "right_speed_mps": 0.0,
+  "arm_stowed": true,
+  "estop": false,
+  "driver_fault": false
+}
